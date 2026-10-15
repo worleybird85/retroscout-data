@@ -2,8 +2,8 @@
   "schema_version": 5,
   "scout": "MarketplaceScout",
   "area": "Tulsa, Oklahoma",
-  "updated_at": "2026-10-15T02:22:29.539190+00:00",
-  "scan_id": "20261015T020004Z",
+  "updated_at": "2026-10-15T14:03:35.667521+00:00",
+  "scan_id": "20261015T140003Z",
   "window_hours": 36,
   "category": "vhs_tapes",
   "listings": [
@@ -3326,20 +3326,6 @@
       "price_changed_at": ""
     },
     {
-      "listing_id": "1995371407802734",
-      "title": "X-Files ultimate collectors edition",
-      "price": "$100",
-      "location": "Tulsa, OK",
-      "url": "https://www.facebook.com/marketplace/item/1995371407802734/",
-      "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.84726-6/840116646_3003723463300557_4848316167571108039_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=F4Pkl08pV3cQ7kNvwFhMQL9&_nc_oc=AdpudtbJwkqx2Farb-E9E_TtzxJmOF1thKowUjeyEZnQBTInaoTjO5ec17omL7iHzlI&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=yy_BFLuQCJgRRjBwoSMclw&_nc_ss=7b2a8&oh=00_AQM3Vfp87f47zTktoLAriQ-YWIWX0dbviuKA6YX1rP-24Q&oe=6AD5FB52",
-      "query": "Disney VHS",
-      "first_seen": "2026-10-11T14:24:03.752673+00:00",
-      "last_seen": "2026-10-15T02:21:41.125811+00:00",
-      "category": "vhs_tapes",
-      "previous_price": "$80",
-      "price_changed_at": "2026-10-13T02:17:44.948133+00:00"
-    },
-    {
       "listing_id": "1598924981643578",
       "title": "Lucasfilm Premiere The Movie Script Library Star Wars Trilogy Original Movie Scripts",
       "price": "$30",
@@ -3926,20 +3912,6 @@
       "category": "vhs_tapes",
       "previous_price": "$150",
       "price_changed_at": "2026-10-15T02:22:21.874300+00:00"
-    },
-    {
-      "listing_id": "1050979451328787",
-      "title": "Tube tv",
-      "price": "$20",
-      "location": "Tulsa, OK",
-      "url": "https://www.facebook.com/marketplace/item/1050979451328787/",
-      "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.84726-6/839441355_2081876882469557_7315579991331567350_n.jpg?stp=c0.152.261.261a_dst-jpg_p261x260_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=0vPerL2zrZMQ7kNvwEX2rp0&_nc_oc=Adrr0cxxx65S4ukyP05YFfe0-Zin4NqsrBSMSHXWMexHB4qShc6W40vT4R3aXRZAZqM&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=t0soPykAMdv6ud1JYfgRiA&_nc_ss=7b2a8&oh=00_AQOBcr_jxTr6-EYiXQvnqqbfhzRiN1y4i0ZUAwBZIfYzzQ&oe=6AD615F2",
-      "query": "VHS lot",
-      "first_seen": "2026-10-09T02:07:38.540155+00:00",
-      "last_seen": "2026-10-15T02:18:47.645260+00:00",
-      "category": "vhs_tapes",
-      "previous_price": "",
-      "price_changed_at": ""
     },
     {
       "listing_id": "1069209898920398",
@@ -4656,20 +4628,6 @@
       "price_changed_at": "2026-10-15T02:09:59.733306+00:00"
     },
     {
-      "listing_id": "4121365384827341",
-      "title": "Snow Brothers NES",
-      "price": "$195",
-      "location": "Tulsa, OK",
-      "url": "https://www.facebook.com/marketplace/item/4121365384827341/",
-      "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.84726-6/764807340_1059855826461472_4758888706562892046_n.jpg?stp=c0.6.261.261a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=F9LnECpv6ksQ7kNvwEtQVCK&_nc_oc=Adq-LB8l2rrm0lkE68SqmUrnmNvEdYxPKjzkbMW9syR_wwv2QKTHq4JUR4-g-qLK7bA&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=qJE-r5IWM3RAT6LNsJmZFw&_nc_ss=7b2a8&oh=00_AQOLjAMr4GvUBYQI7qNpsofigldP2wZrfbWJpJhD3m67Ig&oe=6AD61899",
-      "query": "videotapes",
-      "first_seen": "2026-10-07T02:11:12.259277+00:00",
-      "last_seen": "2026-10-15T02:20:19.312084+00:00",
-      "category": "vhs_tapes",
-      "previous_price": "",
-      "price_changed_at": ""
-    },
-    {
       "listing_id": "1670700130863292",
       "title": "\u200b19 Vintage VHS Movie Lot - 90s Blockbusters, Titanic, & Classics",
       "price": "$25",
@@ -5099,20 +5057,6 @@
       "query": "videotapes",
       "first_seen": "2026-10-05T17:05:19.876159+00:00",
       "last_seen": "2026-10-14T14:19:37.945680+00:00",
-      "category": "vhs_tapes",
-      "previous_price": "",
-      "price_changed_at": ""
-    },
-    {
-      "listing_id": "1440946611297221",
-      "title": "Vintage Computer",
-      "price": "$100",
-      "location": "Collinsville, OK",
-      "url": "https://www.facebook.com/marketplace/item/1440946611297221/",
-      "image_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.84726-6/833345910_1458974979384184_7675063507256475409_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=EDVDyllRyWYQ7kNvwFoZZUq&_nc_oc=AdruQDh2KWCq8cm8RTGN3mhiSOM1dQ0osOUoSI02eJkiRcc0sunTIhST6TsuV1i8a6Y&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=USQV4CfejKkSGKabGJmfRQ&_nc_ss=7b2a8&oh=00_AQOlysnF3OPmR-7QaM1Hg1ewV0YfOZL78I7rHyE08XXa_A&oe=6AD60A15",
-      "query": "VHS",
-      "first_seen": "2026-10-05T15:42:48.946996+00:00",
-      "last_seen": "2026-10-15T02:17:01.677556+00:00",
       "category": "vhs_tapes",
       "previous_price": "",
       "price_changed_at": ""
@@ -7003,6 +6947,62 @@
       "query": "90s VHS",
       "first_seen": "2026-10-01T20:10:28.120312+00:00",
       "last_seen": "2026-10-14T14:22:03.357909+00:00",
+      "category": "vhs_tapes",
+      "previous_price": "",
+      "price_changed_at": ""
+    },
+    {
+      "listing_id": "1996902827678721",
+      "title": "Walt Disney Vhs Movies",
+      "price": "$5",
+      "location": "Tulsa, OK",
+      "url": "https://www.facebook.com/marketplace/item/1996902827678721/",
+      "image_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.84726-6/761795456_1745357813201074_1328823165086432325_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=ckv-SB1GgiUQ7kNvwFVi06s&_nc_oc=AdrGjTg1shz_LoBjC7aDvZeU9mxmWoWue-Eqn7qcIz2GAkDTbZZ8yHKbYxQmG3WVJXw&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=czPLd-xmhd_0q_fC573vKw&_nc_ss=7b2a8&oh=00_AQPlJXprI1E-3aZoukgkO8DYO1-wn_iSys5_Mzx2S7c7Tw&oe=6AD5FF18",
+      "query": "VHS",
+      "first_seen": "2026-10-01T20:10:28.120312+00:00",
+      "last_seen": "2026-10-15T02:17:01.677556+00:00",
+      "category": "vhs_tapes",
+      "previous_price": "",
+      "price_changed_at": ""
+    },
+    {
+      "listing_id": "2141169153443016",
+      "title": "Box of 60+ vhs",
+      "price": "$50",
+      "location": "Neosho, MO",
+      "url": "https://www.facebook.com/marketplace/item/2141169153443016/",
+      "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.84726-6/818645375_5042583852635452_3171495992610765889_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=UZkOWUyG5O4Q7kNvwFJUxnH&_nc_oc=Adp5LvlPBGDnyNoFgglj5jXO1pqEGwxE-Oogj-mxBMVoupx6sDHabIz5XUTuGUOufUE&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=D0S6QS6hELBJ1SwDk0M2JQ&_nc_ss=7b2a8&oh=00_AQP19fStx0wUjS9Ns8qvMhWSHnDd3H_-6IIXtfK5Aa8QDw&oe=6AD62462",
+      "query": "horror VHS",
+      "first_seen": "2026-10-01T20:10:28.120312+00:00",
+      "last_seen": "2026-10-15T02:21:20.668577+00:00",
+      "category": "vhs_tapes",
+      "previous_price": "",
+      "price_changed_at": ""
+    },
+    {
+      "listing_id": "4348486418737597",
+      "title": "DISNEY Aladdin Black Diamond VHS 1st Run 1993 #1662 ORIGINAL W/ INSERTS!",
+      "price": "$800",
+      "location": "Sand Springs, OK",
+      "url": "https://www.facebook.com/marketplace/item/4348486418737597/",
+      "image_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.84726-6/771997987_1271278919398544_728583763765146397_n.jpg?stp=c27.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=bxRqajTQmVgQ7kNvwETUcjV&_nc_oc=AdrcI7FKaW7qeqTAxb_mXKCfCYSnw8Gb9IiRdTPfzrYY6C9bXgPfpGax50rIofVw-nU&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=ywdwr2zqod33mUVHb9nPHQ&_nc_ss=7b2a8&oh=00_AQMo6fcNhp5NBQLB3B1Z2MbCImLHPB1Yoic2U3AeaUnlcg&oe=6AD5793C",
+      "query": "Disney VHS",
+      "first_seen": "2026-10-01T20:10:28.120312+00:00",
+      "last_seen": "2026-10-14T14:21:15.192625+00:00",
+      "category": "vhs_tapes",
+      "previous_price": "",
+      "price_changed_at": ""
+    },
+    {
+      "listing_id": "27585703824445759",
+      "title": "John Travolta VHS Lot 2 Broken Arrow The General\u2019s Daughter Action Thriller",
+      "price": "$9",
+      "location": "Ships to you",
+      "url": "https://www.facebook.com/marketplace/item/27585703824445759/",
+      "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.84726-6/774165309_4639625009693988_2602473570307552555_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=t10j2TXWxF0Q7kNvwFJuKqD&_nc_oc=Adqhsq3NnUWIRnPOvpbrKoV9z0zW17o5zsxtD1sF2F2_Jb_3BOkVIIrGVr1ml-Tz7c4&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=t0soPykAMdv6ud1JYfgRiA&_nc_ss=7b2a8&oh=00_AQP1MCDTptInUyOv96L2RhGW45HxCr9FNEzAh-avSzCNZw&oe=6AD602AD",
+      "query": "VHS lot",
+      "first_seen": "2026-10-01T20:10:28.120312+00:00",
+      "last_seen": "2026-10-15T02:18:47.645260+00:00",
       "category": "vhs_tapes",
       "previous_price": "",
       "price_changed_at": ""
